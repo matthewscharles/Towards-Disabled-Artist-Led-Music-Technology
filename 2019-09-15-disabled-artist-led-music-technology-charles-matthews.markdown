@@ -138,7 +138,7 @@ To accompany the code, we use a home-made board that fits on top of the Bela as 
 
 Robyn Steward has been instrumental in pushing this forward; we used Instrument Maker to develop her wireless effects pedal (which Robyn has named 'Barry'), as part of her recent Emergent commission for Drake Music. We recently collaborated on an iPad app development workshop using this code, and the opening statement Robyn wrote on our worksheet is particularly striking: “*it’s OK to make mistakes, making mistakes means you’re learning something*”.  This is an essential qualifier to add to the message so often touted in overtly "accessible" contexts, ie. "this is stuff easy, anyone can do it".  
 
-<!--<! need to unpack that statement a little, but ideally with direct input from Robyn>-->
+{% include youtube.html youtube="MJmQxAr8jtk" %}
 
 {% include single-image.html fileName="matthews/barry.jpg" caption="Robyn's pedal 'Barry Mk3' at a recent performance night curated by QMUL's Centre for Digital Music." %}
 
